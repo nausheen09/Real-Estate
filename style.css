@@ -1,0 +1,49 @@
+.first1 {
+    background: #FAFAFA;
+    height: 90px;
+    top: 34px;
+    border-radius: 70px;
+    position: relative;
+}
+
+.first3 {
+    width: Hug (93.89px)px;
+    height: Hug (27.5px)px;
+    position: relative;
+    top: 0px;
+    left: 30px;
+    /* background-color: blue; */
+}
+
+.first2 {
+    background-color: rgb(227, 227, 227);
+    max-width: 571px;
+    max-height: 60px;
+}
+.second{
+    width: 100%;
+    height: 500px;background-color: blue;
+}
+
+
+
+/* .first4 {
+    background-color: rgb(113, 138, 154);
+    width: 100px;
+    position: relative;
+    top: -1px;
+    left: 830px;
+}
+.first5{
+background-color: blue;
+   position: relative;
+    top: 0px;
+    left: -30px;
+} */
+
+.first5 button {
+    background: #FEFEFF;
+    padding: 15px 35px 15px 35px;
+    border-radius: 40px;
+    border: 1px;
+}
