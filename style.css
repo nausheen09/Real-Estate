@@ -1,49 +1,27 @@
-.firsttt{
-    /* background: red; */
+
+.cont-custom{
     width: 100%;
-    height: 160px;
+    /* background: #FAFAFA; */
 }
-.first1 {
-    background: #FAFAFA;
-    height: 90px;
-    top: 34px;
-    border-radius: 70px;
-    position: relative;
+.nav-blue{
+    width: 100%;
+}
+.naav-custom{
+    /* max-width: 500px; */
+    background-color: aqua;
 }
 
-
-
-.first2 {
+/* .first2 {
     background-color: rgb(227, 227, 227);
-    /* max-width: 571px;
-    max-height: 60px; */
-}
-.second{
-    /* max-height: 700px; */
-    background-color: #ff7d7d;
-    /* background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%); */
-}
-.fonnt{
-    font-size: 70px;
-}
-
-
-
-
-/* .first4 {
-    background-color: rgb(113, 138, 154);
-    width: 100px;
-    position: relative;
-    top: -1px;
-    left: 830px;
-}
-.first5{
-background-color: blue;
-   position: relative;
-    top: 0px;
-    left: -30px;
+    max-width: 571px;
+    max-height: 60px;
 } */
 
+
+
+.fonnt {
+    font-size: 70px;
+}
 .first5 button {
     background: #FEFEFF;
     padding: 15px 35px 15px 35px;
@@ -51,14 +29,25 @@ background-color: blue;
     border: 1px;
 }
 
-.tirth{
+.tirth {
     /* background-color: #777676; */
     width: 100%;
-    max-height: 500px;
-    margin-top: 30px;
+    height: 100%;
 }
-.fouth{
-    /* background-color: #ff7d7d; */
-max-height: 900px;
-margin-top: 40px;
+
+.btn-custom{
+    border-radius: 40px;
+    border: 1px solid black;
 }
+.heading{
+    width: 50%;
+    font-size: 40px;  
+}
+
+@media screen and (min-width:400px) and (max-width:992px) {
+    .heading{
+        font-size: 30px;
+    }
+    
+}
+
