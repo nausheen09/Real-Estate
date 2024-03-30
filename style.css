@@ -35,6 +35,9 @@
     width: 50%;
     font-size: 40px;  
 }
+.number{
+    width: 90%;
+}
 
 @media screen and (min-width:400px) and (max-width:992px) {
     .heading{
